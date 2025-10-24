@@ -16,3 +16,5 @@ Key columns include:
 - 🧮 **Route Costs:** Route A drives the largest cost burden—optimizing it could yield savings.  
 - 🧍 **Demographic Trend:** Female customers contribute to a larger revenue share, suggesting targeted marketing potential.  
 - 💡 **Profit Optimization:** Balancing transportation costs with supplier efficiency can increase overall profitability.
+## Dashboard View
+![Dashboard Overview](https://github.com/ManasaraniB/PowerBI-Project-2/blob/main/FINAL-%20Project%202.PNG)
